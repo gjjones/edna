@@ -1,11 +1,8 @@
 # DIRECTORIES *
 node_modules/
-.sass-cache/
 
 # FILES
 .DS_Store
-*.css
-*.map
 *.log
 npm-shrinkwrap.json
 version
